@@ -1,0 +1,1 @@
+Killer Game,a miind game,also called "werewolf" or "mafia".This project devotes to develop the game's assistant software used in smart phone(eg.Nokia N72).Develop Language is pys60
